@@ -1,0 +1,7 @@
+# Exclude files from auto-prettier
+node_modules
+dist
+build
+.build
+styles
+vendor
